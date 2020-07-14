@@ -1,0 +1,2 @@
+rootProject.name='HowlFaceDetection'
+include ':app'
